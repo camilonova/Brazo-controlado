@@ -1,0 +1,32 @@
+[PROJECT]
+Target=pacho.HEX
+Development_Mode=2
+Processor=0x873A
+ToolSuite=CCS
+
+[Directories]
+Include=
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=pacho.c;
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+
+[pacho.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=c:\DOCUME~1\GUILLE~1\ESCRIT~1\pacho\pacho.c
+
+[Windows]
+0=0000 c:\DOCUME~1\GUILLE~1\ESCRIT~1\pacho\pacho.c 0 0 796 451 3 0
+

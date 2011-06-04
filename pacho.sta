@@ -1,0 +1,34 @@
+
+ROM used: 593 (14%)
+          2048 (50%) including unused fragments
+
+          1 Average locations per line
+          3 Average locations per statement
+
+RAM used: 9 (5%) at main() level
+          10 (5%) worst case
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  335   229 100  c:\documents and settings\guillermo\escritorio\pacho\pacho.c
+  244     0   0  C:\Archivos de programa\PICC\devices\16f873A.h
+----- -----
+ 1158   458 Total
+
+Page ROM  %  RAM  Functions:
+---- --- --- ---  ----------
+0     22   4   1  delay_ms1
+0     38   6   0  inicializar
+0    154  26   0  giro_derecha100
+0     78  13   0  giro_derecha50
+0    154  26   0  giro_izquierda100
+0     78  13   0  giro_izquierda50
+0     15   3   0  leer
+0     50   8   0  main
+
+ Segment   Used  Free
+---------  ----  ----
+00000-00003     4  0
+00004-007FF   589  1455
+00800-00FFF     0  2048
+

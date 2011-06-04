@@ -1,0 +1,33 @@
+ÀÄpacho
+   ÀÄmain  0/50  Ram=0
+      ÃÄ??0??
+      ÃÄinicializar  0/38  Ram=0
+      ÃÄleer  0/15  Ram=0
+      ÃÄgiro_derecha100  0/154  Ram=0
+      ³  ÃÄdelay_ms1  0/22  Ram=1
+      ³  ÃÄdelay_ms1  0/22  Ram=1
+      ³  ÃÄdelay_ms1  0/22  Ram=1
+      ³  ÃÄdelay_ms1  0/22  Ram=1
+      ³  ÃÄdelay_ms1  0/22  Ram=1
+      ³  ÃÄdelay_ms1  0/22  Ram=1
+      ³  ÃÄdelay_ms1  0/22  Ram=1
+      ³  ÀÄdelay_ms1  0/22  Ram=1
+      ÃÄgiro_derecha50  0/78  Ram=0
+      ³  ÃÄdelay_ms1  0/22  Ram=1
+      ³  ÃÄdelay_ms1  0/22  Ram=1
+      ³  ÃÄdelay_ms1  0/22  Ram=1
+      ³  ÀÄdelay_ms1  0/22  Ram=1
+      ÃÄgiro_izquierda50  0/78  Ram=0
+      ³  ÃÄdelay_ms1  0/22  Ram=1
+      ³  ÃÄdelay_ms1  0/22  Ram=1
+      ³  ÃÄdelay_ms1  0/22  Ram=1
+      ³  ÀÄdelay_ms1  0/22  Ram=1
+      ÀÄgiro_izquierda100  0/154  Ram=0
+         ÃÄdelay_ms1  0/22  Ram=1
+         ÃÄdelay_ms1  0/22  Ram=1
+         ÃÄdelay_ms1  0/22  Ram=1
+         ÃÄdelay_ms1  0/22  Ram=1
+         ÃÄdelay_ms1  0/22  Ram=1
+         ÃÄdelay_ms1  0/22  Ram=1
+         ÃÄdelay_ms1  0/22  Ram=1
+         ÀÄdelay_ms1  0/22  Ram=1

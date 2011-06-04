@@ -1,0 +1,33 @@
+015-016 CCP_1
+015     CCP_1_LOW
+016     CCP_1_HIGH
+01B-01C CCP_2
+01B     CCP_2_LOW
+01C     CCP_2_HIGH
+01F.6   C1OUT
+01F.7   C2OUT
+020     @SCRATCH
+021     @SCRATCH
+021     _RETURN_
+022     @SCRATCH
+023     @SCRATCH
+024     @SCRATCH
+025     time
+026-027 lectura
+028     @TRIS_C
+029     delay_ms1.P1
+        delay_us1.P1
+
+0039  delay_ms1
+0004  inicializar
+004F  giro_derecha100
+00E9  giro_derecha50
+0185  giro_izquierda100
+0137  giro_izquierda50
+002A  leer
+021F  main
+021F  @cinit
+
+Project Files:
+c:\documents and settings\guillermo\escritorio\pacho\pacho.c
+C:\Archivos de programa\PICC\devices\16f873A.h
